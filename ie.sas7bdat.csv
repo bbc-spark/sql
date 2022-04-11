@@ -1,0 +1,572 @@
+,SUBJID,IEYN_C,IEYN,IEYN_ND,IN01_C,IN01,IN01_ND,IN02_C,IN02,IN02_ND,IN03_C,IN03,IN03_ND,IN04_C,IN04,IN04_ND,IN05_C,IN05,IN05_ND,IN06_C,IN06,IN06_ND,IN07_C,IN07,IN07_ND,IN08_C,IN08,IN08_ND,EX01_C,EX01,EX01_ND,EX02_C,EX02,EX02_ND,EX03_C,EX03,EX03_ND,EX04_C,EX04,EX04_ND,EX05_C,EX05,EX05_ND,EX06_C,EX06,EX06_ND,EX07_C,EX07,EX07_ND,EX08_C,EX08,EX08_ND,EX09_C,EX09,EX09_ND,EX10_C,EX10,EX10_ND,EX11_C,EX11,EX11_ND,EX12_C,EX12,EX12_ND,EX13_C,EX13,EX13_ND,EX14_C,EX14,EX14_ND,EX15_C,EX15,EX15_ND,EX16_C,EX16,EX16_ND,EX17_C,EX17,EX17_ND,SITENUM,VISIT,FORM
+0,002-001,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+1,002-002,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+2,002-005,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+3,002-009,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+4,002-012,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+5,002-018,N,No,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+6,002-035,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,002,VISIT 1,IE
+7,002-040,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+8,001-025,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+9,002-121,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+10,002-136,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+11,002-066,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+12,001-049,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+13,002-153,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+14,001-051,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+15,002-157,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+16,002-158,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+17,002-161,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+18,002-165,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+19,002-167,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+20,002-174,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+21,002-186,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+22,002-190,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+23,002-194,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+24,002-197,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+25,002-205,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+26,002-204,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+27,002-207,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+28,002-132,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+29,002-048,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+30,001-065,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+31,002-272,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+32,001-073,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+33,001-076,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+34,001-096,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+35,001-114,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+36,001-120,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+37,001-132,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+38,001-133,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+39,001-136,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+40,001-137,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+41,001-138,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+42,001-141,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+43,001-146,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+44,001-147,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+45,001-150,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+46,001-160,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+47,001-161,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+48,001-166,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+49,001-167,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+50,001-168,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+51,001-172,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+52,001-173,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+53,001-174,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+54,001-184,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+55,001-185,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+56,001-070,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+57,001-101,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+58,001-110,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+59,001-171,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+60,001-214,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+61,001-215,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+62,001-175,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,001,VISIT 1,IE
+63,001-222,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+64,002-216,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+65,002-014,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+66,002-016,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+67,002-069,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+68,002-090,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+69,002-140,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+70,001-001,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+71,001-009,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+72,001-017,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+73,001-020,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+74,002-124,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+75,002-125,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+76,002-128,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+77,002-129,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+78,001-037,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+79,001-042,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+80,002-175,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+81,002-176,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+82,002-178,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+83,002-180,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+84,002-199,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+85,002-206,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+86,002-020,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+87,002-245,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+88,002-247,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+89,002-251,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+90,002-231,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+91,002-241,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+92,002-253,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+93,002-255,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+94,002-257,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+95,002-256,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+96,002-263,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+97,002-267,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+98,002-268,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+99,002-273,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+100,002-225,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+101,002-224,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+102,002-230,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+103,002-232,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+104,002-233,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+105,002-223,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+106,002-222,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+107,002-236,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+108,002-238,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+109,002-246,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+110,002-252,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+111,002-254,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+112,001-247,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+113,001-249,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+114,001-186,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+115,001-197,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+116,001-235,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+117,001-271,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+118,001-270,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+119,001-208,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+120,001-236,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+121,001-239,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+122,001-135,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+123,001-207,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+124,002-004,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+125,002-008,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+126,002-010,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+127,002-011,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+128,002-017,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+129,002-033,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+130,002-034,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+131,002-025,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+132,002-026,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+133,002-038,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+134,002-027,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+135,002-029,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+136,002-037,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+137,002-030,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+138,002-041,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+139,002-042,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+140,002-043,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+141,002-045,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+142,002-060,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+143,002-051,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+144,002-065,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+145,002-095,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+146,002-071,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+147,002-073,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+148,002-102,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+149,002-078,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+150,002-111,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+151,002-082,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+152,002-145,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+153,002-120,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+154,002-117,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+155,002-150,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+156,002-149,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+157,002-148,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+158,001-005,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+159,001-023,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+160,001-027,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+161,001-034,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+162,002-160,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+163,002-164,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+164,002-166,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+165,002-168,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+166,002-169,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+167,002-171,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+168,002-173,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+169,002-183,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+170,002-185,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+171,002-192,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+172,001-054,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+173,002-198,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+174,002-202,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+175,002-201,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+176,002-200,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+177,002-203,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+178,002-210,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+179,002-211,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+180,001-053,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+181,002-217,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+182,002-019,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+183,002-022,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+184,002-023,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+185,002-024,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+186,002-031,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+187,002-059,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+188,002-046,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+189,002-061,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+190,002-063,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+191,002-053,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+192,002-054,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+193,002-093,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+194,002-097,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+195,002-056,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+196,002-098,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+197,002-070,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+198,002-099,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+199,002-101,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+200,002-103,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+201,002-104,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+202,002-074,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+203,002-105,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+204,002-106,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+205,002-112,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+206,002-114,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+207,002-115,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+208,002-116,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+209,002-133,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+210,002-134,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+211,002-137,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+212,002-032,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+213,001-002,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+214,001-010,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+215,001-011,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+216,002-087,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+217,001-036,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+218,001-041,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+219,002-151,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+220,002-152,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+221,002-162,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+222,002-177,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+223,001-004,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+224,002-212,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+225,002-213,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+226,002-214,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+227,001-044,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+228,002-218,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+229,002-219,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+230,002-220,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+231,002-221,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+232,002-243,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+233,002-250,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+234,002-240,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+235,002-259,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+236,002-260,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+237,002-258,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+238,002-261,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+239,002-262,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+240,002-003,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+241,002-006,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+242,002-007,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+243,002-013,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+244,002-015,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+245,002-028,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+246,002-039,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+247,002-036,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+248,002-062,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+249,002-052,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+250,002-067,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+251,002-068,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+252,002-055,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+253,002-110,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+254,002-135,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+255,002-088,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+256,002-085,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+257,002-021,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+258,002-139,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+259,001-012,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+260,001-015,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+261,001-024,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+262,002-084,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+263,001-029,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+264,002-086,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+265,002-159,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+266,002-191,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+267,001-064,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+268,002-193,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+269,002-195,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+270,002-196,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+271,002-208,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+272,002-209,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+273,002-234,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+274,002-242,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+275,002-244,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+276,002-248,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+277,002-265,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+278,002-266,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+279,002-264,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+280,002-269,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+281,002-271,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+282,002-270,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+283,001-067,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+284,002-181,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+285,002-239,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+286,002-226,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+287,002-227,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+288,002-228,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+289,002-229,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+290,001-071,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+291,001-081,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+292,001-084,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+293,001-085,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+294,001-089,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+295,001-091,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+296,001-092,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+297,001-098,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+298,001-105,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+299,001-106,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+300,001-108,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+301,001-111,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+302,001-243,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+303,001-225,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+304,001-153,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+305,001-156,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+306,001-129,N,No,,Y,Yes,,Y,Yes,,,,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+307,001-130,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+308,001-093,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,001,VISIT 1,IE
+309,001-097,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+310,001-109,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+311,001-056,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+312,001-057,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+313,001-115,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+314,001-281,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+315,001-286,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+316,001-221,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+317,001-261,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+318,001-253,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+319,001-145,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+320,001-229,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+321,001-291,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+322,001-220,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+323,001-228,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+324,001-296,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+325,001-297,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+326,001-269,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+327,001-224,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+328,001-119,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+329,001-272,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+330,001-128,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+331,001-280,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+332,001-278,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+333,001-210,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+334,001-284,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+335,001-211,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+336,001-113,N,No,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+337,001-152,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+338,001-219,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+339,001-190,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+340,001-157,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+341,001-158,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+342,001-159,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+343,001-162,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+344,001-163,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+345,001-169,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+346,001-179,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+347,001-183,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+348,001-187,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+349,001-201,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,001,VISIT 1,IE
+350,002-057,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+351,001-289,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+352,001-266,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+353,001-205,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+354,001-199,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+355,001-182,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+356,001-227,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+357,001-068,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+358,001-069,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+359,001-080,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+360,001-082,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+361,001-283,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+362,002-044,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+363,001-095,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+364,002-154,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+365,002-182,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+366,001-248,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+367,001-209,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+368,001-232,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+369,001-188,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+370,001-144,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+371,001-134,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+372,001-103,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+373,001-107,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+374,001-052,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+375,001-062,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+376,001-287,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+377,001-154,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+378,001-218,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+379,001-256,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+380,001-255,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+381,002-089,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+382,002-092,N,No,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+383,001-006,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+384,002-047,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+385,001-046,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+386,002-123,N,No,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+387,002-127,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+388,001-238,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+389,001-252,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+390,002-138,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+391,002-142,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+392,001-223,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+393,002-141,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+394,002-146,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+395,002-147,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+396,002-155,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+397,002-163,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+398,001-018,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+399,001-021,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+400,001-022,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+401,001-031,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+402,001-290,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+403,001-267,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+404,002-235,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+405,002-237,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+406,001-298,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+407,002-119,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+408,001-230,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+409,001-226,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+410,001-100,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+411,001-116,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+412,001-117,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+413,001-118,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+414,002-249,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+415,001-121,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+416,001-122,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+417,001-123,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+418,001-124,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+419,001-125,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+420,001-126,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+421,001-127,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+422,001-273,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+423,001-277,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+424,001-254,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+425,001-258,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+426,001-202,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+427,001-194,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+428,001-203,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+429,001-181,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+430,001-112,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+431,001-192,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+432,001-140,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+433,001-143,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+434,001-079,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+435,001-078,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+436,001-149,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+437,001-151,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+438,001-131,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+439,001-099,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+440,001-139,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+441,001-102,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+442,001-142,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+443,001-039,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+444,001-060,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+445,001-262,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+446,001-216,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+447,001-189,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+448,001-191,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+449,001-193,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+450,001-196,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+451,001-164,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+452,002-144,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+453,002-100,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+454,002-081,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+455,002-083,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+456,001-233,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+457,001-250,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+458,001-204,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+459,001-206,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+460,001-061,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+461,001-074,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+462,001-285,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+463,001-288,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+464,001-086,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+465,002-076,N,No,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+466,001-234,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+467,002-077,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+468,001-231,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+469,001-007,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+470,001-035,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+471,002-079,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+472,002-080,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+473,002-094,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+474,002-096,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+475,002-108,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+476,002-109,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+477,002-126,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+478,002-172,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+479,001-003,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+480,001-013,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+481,001-014,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+482,001-016,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+483,001-019,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+484,001-026,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+485,001-032,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+486,001-038,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+487,001-043,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+488,001-045,N,No,,Y,Yes,,,,,,,,,,,,,,N,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,001,VISIT 1,IE
+489,001-047,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+490,002-118,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+491,001-048,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+492,001-237,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+493,001-251,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+494,001-241,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+495,001-260,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+496,001-257,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+497,001-072,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+498,001-148,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+499,001-075,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,001,VISIT 1,IE
+500,001-155,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+501,001-083,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+502,001-028,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+503,001-033,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+504,001-050,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+505,001-058,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+506,001-059,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+507,001-259,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+508,001-242,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+509,001-275,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+510,001-263,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+511,001-198,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+512,001-265,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+513,001-264,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+514,001-212,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+515,001-268,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+516,001-165,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+517,001-176,N,No,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+518,001-177,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+519,001-104,N,No,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+520,001-077,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+521,001-087,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+522,001-088,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+523,001-090,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+524,001-094,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+525,002-049,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+526,002-050,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+527,002-058,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+528,002-064,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,002,VISIT 1,IE
+529,001-170,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+530,001-295,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+531,001-246,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+532,001-245,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+533,001-279,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+534,001-276,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+535,001-274,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+536,001-008,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+537,001-063,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+538,001-217,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+539,001-066,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+540,002-113,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+541,002-122,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+542,002-130,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+543,002-131,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+544,001-055,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+545,002-170,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+546,002-184,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+547,002-189,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+548,001-244,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+549,001-030,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+550,001-040,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+551,001-294,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+552,001-293,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+553,001-292,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+554,001-282,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+555,002-215,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+556,002-143,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+557,001-213,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+558,002-072,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+559,002-188,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+560,001-178,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+561,001-180,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+562,001-240,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+563,001-195,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+564,001-200,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,001,VISIT 1,IE
+565,002-075,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+566,002-091,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,002,VISIT 1,IE
+567,002-156,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+568,002-179,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+569,002-187,N,No,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,Y,Yes,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
+570,002-107,N,No,,N,No,,Y,Yes,,N,No,,N,No,,N,No,,N,No,,N,No,,NA,Not Applicable,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,N,No,,002,VISIT 1,IE
