@@ -1,6 +1,6 @@
 #sql
 
-<b>SQL (Structured Query Language)</b> is a standard for handling relational data. SQL has many different versions, including SQL Server, MySQL, Oracle, Microsoft Access, DB2, and many others. Here are projects I have worked on and which may prove beneficial for anyone who manage data in databases.
+<b>SQL (Structured Query Language)</b> is a standard for handling relational data. SQL has many different versions, including SQL Server, MySQL, Oracle, Microsoft Access, DB2, and many others. Projects I have worked on include various databases accessed via Python, R, and SAS.
 
 <strong>SQL Server Projects</strong>
 
