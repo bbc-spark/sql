@@ -1,0 +1,15 @@
+# using Python convert sas (sas7bdat) dataset to csv
+
+import pandas as pd
+import numpy as np
+import sas7bdat 
+import pyreadstat 
+import os
+import pyodbc
+
+sas_lst = [ i for i in os.listdir('sas') if i.endswith('sas7bdat') ]
+for i in sas_lst:
+    if i.endswith('sas7bdat'):
+        nme = i
+        i, meta = pyreadstat.read_sas7bdat(f'sas{i}')
+        i.to_csv(f'output/sas/{(nme)}.csv')
