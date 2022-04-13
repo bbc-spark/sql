@@ -4,9 +4,10 @@
 
 <strong>SQL Server Projects</strong>
 
-SQL Server is a powerful database system with many components. The main component is the SQL Server Management Console but also includes SQL Server Integration Services, SQL Server Analysis Services, and other tools. These projects here include:
+SQL Server is a powerful database system with many components. The main component is the SQL Server Management Console but also includes SQL Server Integration Services, SQL Server Analysis Services, and other tools. 
 
+  -	Converting from SAS to CSV format
   -	Data Cleaning
   -	Data Validation 
-  -	Basic T-SQL
+  -	T-SQL and Python
 
