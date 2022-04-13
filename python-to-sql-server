@@ -1,0 +1,34 @@
+# Clinical Trial Records - move Date of Visit data set to SQL Server
+
+conn = pyodbc.connect('Driver={SQL Server};'
+                      'Server=DESKTOP-FL36RGB;'
+                      'Database=CRODB_PF0029;'
+                      'Trusted_Connection=yes;')
+print('.'*25,"Table connected successfully",'.'*25)
+cursor = conn.cursor()
+
+cursor.execute('''drop table ClinicalTrials.dov2''')
+print('.'*25,"Table dropped successfully",'.'*25)
+
+cursor.execute('''create table ClinicalTrials.dov2 (
+        subjid nvarchar(10),  dovyn_c nvarchar(10), dovyn nvarchar(10), 
+        dov1 nvarchar(10), dov1_dts nvarchar(15), dovyn_nd nvarchar(10), dov1_nd nvarchar(10),
+        sitenum nvarchar(10), visit nvarchar(10), form nvarchar(10) )''')
+print('.'*25,"Table created successfully",'.'*25)
+
+for i, r in dov[:].iterrows():
+    cursor.execute('''insert into ClinicalTrials.dov2 (subjid,  dovyn_c, dovyn,
+            dov1, dov1_dts, dovyn_nd, dov1_nd, sitenum, visit, form) 
+            values (?,?,?,?,?,?,?,?,?,?)''', 
+                  r.SUBJID, r.DOVYN_C, r.DOVYN,  
+                  r.DOV1, r.DOV1_DTS, r.DOVYN_ND,  r.DOV1_ND, 
+                  r.SITENUM, r.VISIT, r.FORM)
+print('.'*25,"Inserted Into Table successfully",'.'*25)    
+
+df = pd.read_sql( 'select * from ClinicalTrials.dov2', conn )
+print('.'*25,"Table Viewed successfully",'.'*25)
+
+conn.commit()
+cursor.close() 
+conn.close()  
+print('.'*25,'All Done, Completed Successfully!!!','.'*25)
